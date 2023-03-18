@@ -19,18 +19,18 @@ For all bellow exercises:
 3. Create a minimal unit test for testing the behavior of the created class.
 
 ## Exercise 1
-![Exercise 1 image](docs/ex1.jpg)
+![Exercise 1 image](docs/Ex1.jpg)
 
 Given the UML class diagram above, implement the corresponding Java program.
 
 
 ## Exercise 2
-![Exercise 2 image](docs/ex2.jpg)
+![Exercise 2 image](docs/Ex2.jpg)
 
 Given the UML class diagram above, implement the corresponding Java program.
 
 ## Exercise 3 
-![Exercise 3 image](docs/ex3.jpg)
+![Exercise 3 image](docs/Ex3.jpg)
 
 Given the UML class diagram above, implement the corresponding Java program.
 
