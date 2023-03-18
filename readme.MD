@@ -42,5 +42,7 @@ Above picture presentes a high level concept of an event ticketing system.
 1. Create a class diagram to model minimal functionalities of event ticketing system. 
 2. Create the minimal application based on the class diagram you created.
 
-*NOTE* No real impementaion is needed (no need to generate qr codes, integrate payment service, etc). The class diagram you create and the application will only simulate various features of the application by simply displaying messages. 
-The focus will be in identifying main features of each of the components. Model each component as a class. Identify the relation (collaboration) between classes and try to model this interactions in the application. 
+**NOTE 1** No real impementaion is needed (no need to generate qr codes, integrate payment service, etc). The class diagram you create and the application will only simulate various features of the application by simply displaying messages. 
+The focus will be in identifying main features of each of the components. Model each component as a class. Identify the relation (collaboration) between classes and try to model this interactions in the application.
+
+**NOTE 2** If it is not very clear what is happening in the payment system you can ignore it.
