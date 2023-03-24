@@ -5,13 +5,6 @@ In this lab you will create small Java applications by using as reference an UML
 - add any constructors, getter, setters or other methods you consider are required even if are not explicitly presented in the diagrams.
 - Do not reuse (import) the same class in multiple exercises. **Each exercise is standalone and should be resolved in its package.**
 
-## Exercise 0
-
-This exercise demonstrate concepts you will need to apply in this lab. Solution for this diagram can be found in source folder in package *isp.lab4.exercise0*.
-![Exercise 1 image](docs/ex0.jpg)
-
-**NOTE: This exercise do not require any implementation from student.**
-
 ## Lab instructions
 
 For all bellow exercises:
@@ -34,7 +27,9 @@ Given the UML class diagram above, implement the corresponding Java program.
 ![Exercise 3 image](docs/Ex3.jpg)
 
 Given the UML class diagram above, implement the corresponding Java program.
-
+The maximum battery level is 100;
+Implement the logic of charging the device. The 3 devices have different charging speeds.
+E.g. A smartwatch is charged to 20% in 10 min.
 
 ## Exercise 4
 ![Exercise 4 image](docs/tickets_app2.jpg)
@@ -43,9 +38,7 @@ Above picture presentes a high level concept of an event ticketing system.
 1. Create a class diagram to model minimal functionalities of event ticketing system. 
 2. Create the minimal application based on the class diagram you have created.
 
+**NOTE 1** In your implementation, use at least two of the following type definitions: enum, interface, abstract class.
 
-**NOTE 1** No real impementaion is needed (no need to generate qr codes, integrate payment service, etc). The class diagram you create and the application will only simulate various features of the application by simply displaying messages. 
+**NOTE 2** No real impementaion is needed (no need to generate qr codes, integrate payment service, etc). The class diagram you create and the application will only simulate various features of the application by simply displaying messages. 
 The focus will be in identifying main features of each of the components. Model each component as a class. Identify the relation (collaboration) between classes and try to model this interactions in the application.
-
-
-**NOTE 2** If it is not very clear what is happening in the payment system you can ignore it.
