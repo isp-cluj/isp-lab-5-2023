@@ -22,8 +22,8 @@ Given the UML class diagram above, implement the corresponding Java program.
 ![Exercise 2 image](docs/Ex2.jpg)
 
 Given the UML class diagram above, implement the corresponding Java program.
-The maximum battery level is 100;
-Implement the logic of charging the device. The 3 devices have different charging speeds.
+The maximum battery level is 100.
+Implement the logic of charging the devices. The 3 devices have different charging speeds.
 E.g. A smartwatch is charged to 20% in 10 min.
 
 ## Exercise 3 
