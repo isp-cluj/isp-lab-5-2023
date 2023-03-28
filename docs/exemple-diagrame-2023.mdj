@@ -2829,7 +2829,7 @@
 											"top": 245,
 											"width": 180.29248046875,
 											"height": 13,
-											"text": "+getBatteryLevel()",
+											"text": "+getBatteryLevel(): int",
 											"horizontalAlignment": 0
 										},
 										{
@@ -3894,7 +3894,18 @@
 							"_parent": {
 								"$ref": "AAAAAAGHE1mvVVxnqXs="
 							},
-							"name": "getBatteryLevel"
+							"name": "getBatteryLevel",
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGHKWlb9+bR56c=",
+									"_parent": {
+										"$ref": "AAAAAAGHE1nNElySU8w="
+									},
+									"type": "int",
+									"direction": "return"
+								}
+							]
 						},
 						{
 							"_type": "UMLOperation",
